@@ -1,12 +1,5 @@
-﻿// Console.WriteLine("Hello world");
-
-
-int a = 100;
-Console.WriteLine(a);
-
-double d = 5.55;
-char c = '!';
-bool b = true;
-Console.WriteLine(d);
-Console.WriteLine(c);
-Console.WriteLine(b);
+﻿// 
+int a1 = 100;
+int g2 = 5;
+int sum = a1 + g2;
+Console.WriteLine(sum);
